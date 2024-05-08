@@ -1,0 +1,12 @@
+node_modules/*
+
+package-lock.json
+spck.config.json
+
+auth-info
+
+# file nore
+.config 
+.npm
+.cache
+.env
